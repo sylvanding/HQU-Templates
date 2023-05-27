@@ -35,7 +35,7 @@
 ### 📥 下载安装
 
 - GitHub：通过[Release页面下载](https://github.com/sylvanding/HQU-Templates/releases)华侨大学主题模版，选择最新的模版版本。下载完成后，您可以在本地计算机上解压相应的模版文件并通过`Office 2021`套件查看和编辑这些模版。
-- 华大云盘：[点击下载]()
+- 华大云盘：[点击下载](https://pan.hqu.edu.cn/share/9ef6f820bc542bc04ec5658029)
 
 ## ✨ 特色
 
