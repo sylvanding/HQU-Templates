@@ -3,14 +3,15 @@
   <h1 align="center"><a href="https://github.com/sylvanding/HQU-Templates" target="_blank" style="text-decoration: none; color: inherit;">华侨大学主题模版</a></h1>
   <p align="center">适用于 课程作业、实验报告、项目策划、毕业论文、毕设答辩...</p>
 </p>
+<br>
 
-[![Word 2021](https://img.shields.io/badge/Word-2021-blue?logo=microsoftword)](./README.md)
-
-[![PowerPoint 2021](https://img.shields.io/badge/PowerPoint-2021-orange?logo=microsoftpowerpoint)](./README.md)
-
-[![release date](https://img.shields.io/github/release-date/sylvanding/HQU-Templates)](./README.md)
-
-[![license MIT](https://img.shields.io/badge/license-MIT-green)](./README.md)
+<div>
+    <a href="./README.md"><img src="https://img.shields.io/badge/Word-2021-blue?logo=microsoftword" alt="Word 2021"></a>
+    <a href="./README.md"><img src="https://img.shields.io/badge/PowerPoint-2021-orange?logo=microsoftpowerpoint" alt="PowerPoint 2021"></a>
+    <a href="./README.md"><img src="https://img.shields.io/github/release-date/sylvanding/HQU-Templates" alt="release date"></a>
+    <a href="./README.md"><img src="https://img.shields.io/badge/license-MIT-green" alt="license MIT"></a>
+</div>
+<br>
 
 **这是一个非官方项目，仅供个人学习研究。**
 
