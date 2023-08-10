@@ -26,6 +26,7 @@
 - 华侨大学简约主题PPT模板-v3顶边白底16-9.pptx
 - 华侨大学计算机科学与技术学院本科毕业设计（论文）Word模版.dotm
 - 华侨大学课程作业和实验报告简易模版.docx
+- [NEW] 华侨大学学术会议海报模版（A1竖版英文）.pptx
 
 这些模版经过相应的修改和调整，一定程度上满足了华侨大学的学术写作规范。您也可以根据个人需求进行定制，以满足不同学校和院系的要求。
 
@@ -63,6 +64,12 @@
 ### 课程作业和实验报告简易模版
 
 提供了一个简洁易用的模版，适用于各类作业和比赛项目策划书的撰写。该模版旨在极大简化写作格式的调整流程，同时满足一定的学术规范。
+
+### 海报模版
+
+提供了一个适用于国际性学术会议成果展示的**A1竖版PPT海报模版**。该模板在[Research Poster Template of University at Buffalo](https://www.buffalo.edu/brand/resources-tools/ub-templates-and-tools/research-poster.html)的基础上进行修改，更正了配色和校徽图片。
+
+<img src="./images/poster.png" alt="poster" style="zoom:50%;" />
 
 ## ❤️ 感谢
 
