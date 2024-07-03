@@ -1,7 +1,7 @@
 <p align="center">
   <img width="180" src="./images/HQU_logo.png" alt="HQU_Templates" onclick="window.open('https://github.com/sylvanding/HQU-Templates')">
   <h1 align="center"><a href="https://github.com/sylvanding/HQU-Templates" target="_blank" style="text-decoration: none; color: inherit;">华侨大学主题模版</a></h1>
-  <p align="center">适用于 课程作业、实验报告、项目策划、毕业论文、毕设答辩...</p>
+  <p align="center">适用于 课程作业、实验报告、项目策划、毕业论文、毕设答辩、考研复试、留学申请...</p>
 </p>
 <br>
 
@@ -21,12 +21,14 @@
 
 ### 📖 仓库简介
 
-该仓库提供了一系列适用于课程作业、实验报告、项目策划、毕业论文、毕设答辩等场景的**华侨大学主题学术模版**，包括：
+该仓库提供了一系列适用于课程作业、实验报告、项目策划、毕业论文、毕设答辩、考研复试、留学申请等场景的**华侨大学主题学术模版**，包括：
 
 - 华侨大学简约主题PPT模板-v3顶边白底16-9.pptx
 - 华侨大学计算机科学与技术学院本科毕业设计（论文）Word模版.dotm
 - 华侨大学课程作业和实验报告简易模版.docx
-- [NEW] 华侨大学学术会议海报模版（A1竖版英文）.pptx
+- 华侨大学学术会议海报模版（A1竖版英文）.pptx
+- [NEW] 硕士研究生复试简历模板（中文）.docx
+- [NEW] 英文学术简历模板（英文）.docx
 
 这些模版经过相应的修改和调整，一定程度上满足了华侨大学的学术写作规范。您也可以根据个人需求进行定制，以满足不同学校和院系的要求。
 
@@ -37,7 +39,7 @@
 ### 📥 下载安装
 
 - GitHub：通过[Release页面下载](https://github.com/sylvanding/HQU-Templates/releases)华侨大学主题模版，选择最新的模版版本。下载完成后，您可以在本地计算机上解压相应的模版文件并通过`Office 2021`套件查看和编辑这些模版。
-- 华大云盘：[点击下载](https://pan.hqu.edu.cn/share/9ef6f820bc542bc04ec5658029)
+- ~~华大云盘：[点击下载](https://pan.hqu.edu.cn/share/9ef6f820bc542bc04ec5658029)~~
 
 ## ✨ 特色
 
@@ -70,6 +72,18 @@
 提供了一个适用于国际性学术会议成果展示的**A1竖版PPT海报模版**。该模板在[Research Poster Template of University at Buffalo](https://www.buffalo.edu/brand/resources-tools/ub-templates-and-tools/research-poster.html)的基础上进行修改，更正了配色和校徽图片。
 
 <img src="./images/poster.png" alt="poster" style="zoom:50%;" />
+
+### 硕士研究生复试简历模板
+
+提供了一个适用于国内硕士研究生复试的个人**简历模板**。该模板通过统一的“样式”形成规范的Word格式，是目前**研究生复试的最佳简历模板**之一。模板使用“华文中宋”字体，如您的电脑中未安装此字体，请提前安装。
+
+<img src="./images/CV_zh.jpeg" alt="CV_zh" style="zoom:50%;" />
+
+### 英文学术简历模板（Academic CV）
+
+提供了一个适用于申请国外院校的**学术简历模板**。
+
+<img src="./images/CV_en.jpeg" alt="CV_en" style="zoom:50%;" />
 
 ## ❤️ 感谢
 
